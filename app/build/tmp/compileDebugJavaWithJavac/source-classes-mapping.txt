@@ -1,0 +1,2 @@
+mad/lab/taskmaster/BuildConfig.java
+ mad.lab.taskmaster.BuildConfig

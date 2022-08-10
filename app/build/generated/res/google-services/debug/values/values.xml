@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">396313078499-5i83ol3pkik04culap7o6sg8gsila3uq.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">396313078499</string>
+    <string name="google_api_key" translatable="false">AIzaSyAAffK7b-55cBdvyLXHCBfLqxEvbV7cPUg</string>
+    <string name="google_app_id" translatable="false">1:396313078499:android:845a846530f8c2426673d6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAAffK7b-55cBdvyLXHCBfLqxEvbV7cPUg</string>
+    <string name="google_storage_bucket" translatable="false">taskmaster-659ac.appspot.com</string>
+    <string name="project_id" translatable="false">taskmaster-659ac</string>
+</resources>
