@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-anydpi/ic_action_navigation_menu.xml" value="0.19270833333333334" />
+        <entry key="app/src/main/res/drawable/ic_action_navigation_menu.xml" value="0.32685185185185184" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/drawable/ic_white_color_white_24dp.xml" value="0.32407407407407407" />
+        <entry key="app/src/main/res/drawable/shape_button_rounded.xml" value="0.19895833333333332" />
+        <entry key="app/src/main/res/drawable/white_border_shape_button_rounded.xml" value="0.19895833333333332" />
+        <entry key="app/src/main/res/layout/activity_card_details.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_create_board.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_intro.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_members.xml" value="0.10461956521739131" />
+        <entry key="app/src/main/res/layout/activity_my_profile.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_sign_in.xml" value="0.18333333333333332" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_task_list.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/app_bar_main.xml" value="0.13768115942028986" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/dialog_list.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/dialog_progress.xml" value="0.353125" />
+        <entry key="app/src/main/res/layout/dialog_search_member.xml" value="0.10461956521739131" />
+        <entry key="app/src/main/res/layout/ic_card_selected_member.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/item_board.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/item_card.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_label_color.xml" value="0.11458333333333333" />
+        <entry key="app/src/main/res/layout/item_member.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_task.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/main_content.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/nav_header_main.xml" value="0.13768115942028986" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.18333333333333332" />
+        <entry key="app/src/main/res/menu/menu_add_member.xml" value="0.18020833333333333" />
+        <entry key="app/src/main/res/menu/menu_delete_card.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/menu_members.xml" value="0.19270833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
